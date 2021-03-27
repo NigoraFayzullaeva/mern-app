@@ -6,3 +6,19 @@
   <li>Multiple data models, image upload, input validation</li>
   <li>Authentication and authentication required</li>
 </ul>  
+<h3>Application Data</h3>
+<h4>User(s)</h4>
+<ul>
+  <li>Name</li>
+  <li>E-mail</li>
+  <li>Password</li>
+  <li>Profile Image</li>
+</ul>  
+<h4>Plase(s)</h4>
+<ul>
+  <li>Title</li>
+  <li>Description</li>
+  <li>Address</li>
+  <li>Location</li>
+  <li>Image</li>
+</ul>  
